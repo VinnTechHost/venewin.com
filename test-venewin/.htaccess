@@ -1,0 +1,7 @@
+CGIHANDLER (). Run (aplicación)
+
+RewriteEngine On
+
+RewriteCond % {REQUEST_FILENAME}! -F
+
+RewriteRule ^ (. *) $ / ~ YourUsername / yourDir /index.cgi/$1 [L]
