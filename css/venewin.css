@@ -57,6 +57,7 @@ body {
     font-size: 1.25rem;
     font-weight: bold;
     margin: 0 0 5px 0;
+    text-align: center;
 }
 
 .datos {
@@ -104,7 +105,7 @@ body {
 }
 
 .portada {
-    background-image: url("../img/software-administrativo-brilliant-venewin-1.jpeg");
+    background-image: url("../img/software-administrativo-venewin-1.jpeg");
     padding: 0.1px;
     font-family: "Rubik", sans-serif;
 }
@@ -127,7 +128,7 @@ body {
     min-height: 100vh;
     max-height: auto;
     width: 100%;
-    background-image: url("../img/software-administrativo-brilliant-venewin-6.jpeg");
+    background-image: url("../img/software-administrativo-venewin-6.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -282,7 +283,7 @@ body {
     ============================*/
 
 .contactanos {
-    background-image: url("../img/software-administrativo-brilliant-venewin-4.jpeg");
+    background-image: url("../img/software-administrativo-venewin-4.jpeg");
     padding-top: 100px;
     height: 100vh;
     background-size: cover;
@@ -350,7 +351,7 @@ body {
     min-height: 50vh;
     max-height: auto;
     width: 100%;
-    background-image: url("../img/software-administrativo-brilliant-venewin-7.jpeg");
+    background-image: url("../img/software-administrativo-venewin-7.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
